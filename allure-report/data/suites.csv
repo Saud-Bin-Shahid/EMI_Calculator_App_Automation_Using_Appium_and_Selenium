@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 27 18:15:07 BDT 2023","Mon Nov 27 18:15:16 BDT 2023","8464","EMI Calculator Automation Suite","EMI Calculator","EMITestRunner","EMITestRunner","calculateEMI","calculateEMI",""
+"passed","Mon Nov 27 18:15:21 BDT 2023","Mon Nov 27 18:15:27 BDT 2023","5998","EMI Calculator Automation Suite","EMI Calculator","EMITestRunner","EMITestRunner","calculateEMI","calculateEMI",""
+"passed","Mon Nov 27 18:15:16 BDT 2023","Mon Nov 27 18:15:21 BDT 2023","5375","EMI Calculator Automation Suite","EMI Calculator","EMITestRunner","EMITestRunner","calculateEMI","calculateEMI",""
+"passed","Mon Nov 27 18:15:27 BDT 2023","Mon Nov 27 18:15:32 BDT 2023","4853","EMI Calculator Automation Suite","EMI Calculator","EMITestRunner","EMITestRunner","calculateEMI","calculateEMI",""
